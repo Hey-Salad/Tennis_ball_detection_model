@@ -1,6 +1,6 @@
 # Tennis Ball Detection Model
 
-This repository contains a YOLOv5-based tennis ball detection model that has been converted for use with reCamera.
+This repository contains a YOLOv8-based tennis ball detection model that has been converted for use with reCamera.
 
 ## Environment Setup
 

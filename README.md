@@ -263,7 +263,7 @@ Feel free to open issues or submit pull requests for improvements.
 
 ## Acknowledgments
 
-- YOLOv5 team for the original architecture
+- YOLO team for the original architecture
 - Sophgo team for the tpu-mlir toolchain
 - COCO dataset for calibration images
 - Special Thanks to the Seeedstudio reCamera team Ddddawn and Leel

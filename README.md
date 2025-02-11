@@ -266,3 +266,5 @@ Feel free to open issues or submit pull requests for improvements.
 - YOLOv5 team for the original architecture
 - Sophgo team for the tpu-mlir toolchain
 - COCO dataset for calibration images
+- Special Thanks to the Seeedstudio reCamera team Ddddawn and Leel
+- Special Thanks to Heysalad Team especially Chenran our AI intern who began the project
